@@ -1,42 +1,42 @@
 [
     {
         "folderName": "Multimedia",
-        "extensions": ["mp3", "mp4", "avi", "mov", "wmv", "wav", "flac", "mkv", "heic"]
+        "extensions": ["mp3", "mp4", "avi", "mov", "wmv", "wav", "flac", "mkv", "heic", "m4a", "opus", "3gp", "flv"]
     },
     {
         "folderName": "Documents",
-        "extensions": ["pdf", "docx", "txt", "xls", "xlsx", "csv", "ppt", "pptx", "pptm"]
+        "extensions": ["pdf", "docx", "txt", "xls", "xlsx", "csv", "ppt", "pptx", "pptm", "md", "rtf", "odt", "wps", "xlsm"]
     },
     {
         "folderName": "Apps",
-        "extensions": ["exe", "dmg", "apk", "app"]
+        "extensions": ["exe", "dmg", "apk", "app", "msi", "pkg", "appx"]
     },
     {
         "folderName": "Images",
-        "extensions": ["jpg", "png", "jpeg", "gif", "bmp", "tif", "svg", "ico", "webp"]
+        "extensions": ["jpg", "png", "jpeg", "gif", "bmp", "tif", "svg", "ico", "webp", "raw", "heif", "tga", "dng", "heic"]
     },
     {
         "folderName": "Code",
-        "extensions": ["html", "css", "js", "java", "py", "cpp", "cs", "rb", "go", "ipynb"]
+        "extensions": ["html", "css", "js", "java", "py", "cpp", "cs", "rb", "go", "ipynb", "php", "swift", "pl", "rs", "go"]
     },
     {
         "folderName": "Archives",
-        "extensions": ["zip", "rar", "7z", "tar", "gz", "bz2"]
+        "extensions": ["zip", "rar", "7z", "tar", "gz", "bz2", "xz", "lz", "lzo"]
     },
     {
         "folderName": "Scripts",
-        "extensions": ["sh", "bat", "ps1"]
+        "extensions": ["sh", "bat", "ps1", "pl", "php", "pyw", "vbs"]
     },
     {
         "folderName": "Fonts",
-        "extensions": ["ttf", "otf", "woff", "woff2"]
+        "extensions": ["ttf", "otf", "woff", "woff2", "svg", "eot"]
     },
     {
         "folderName": "Databases",
-        "extensions": ["sqlite", "db", "mdb"]
+        "extensions": ["sqlite", "db", "mdb", "dbf", "accdb", "sql"]
     },
     {
         "folderName": "Configurations",
-        "extensions": ["xml", "json", "yaml", "ini", "cfg"]
+        "extensions": ["xml", "json", "yaml", "ini", "cfg", "properties", "env", "toml"]
     }
 ]
