@@ -8,7 +8,7 @@ struct AppMenu: View {
         VStack(alignment: .center, spacing: 20) {
             
             // Header Section
-            Text("SORTRR.")
+            Text("Sort your Downloads")
                 .font(.title2)
                 .bold()
                 .padding(.bottom, 10)

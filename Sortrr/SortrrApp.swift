@@ -1,15 +1,13 @@
 import SwiftUI
 
-@main struct SortrrApp: App {
+@main 
+struct SortrrApp: App {
     @StateObject var sorter = Sorter()
+    
 
     var body: some Scene {
-        MenuBarExtra("UtilityApp", systemImage: "tray.and.arrow.down.fill"){
+        MenuBarExtra("SORTRR", image: "MenuIcon"  ){
                 AppMenu(sorter: sorter)
             }.menuBarExtraStyle(.window)
-
-            WindowGroup{
-                EmptyView()
-            }
         }
 }
